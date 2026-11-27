@@ -1,23 +1,24 @@
 # Contribution Guidelines
 
-Please follow the instructions below to make a contribution.
+This resource was made by developers and hackers alike. Thanks for helping it grow.
 
-This resource was made by the developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
-
-## Table of Content
+## Contents
 
 - [Adding to the list](#adding-to-the-list)
-- [To remove from the list](#to-remove-from-the-list)
+- [Removing from the list](#removing-from-the-list)
 - [Contributors](#contributors)
 
 ## Adding to the List
 
-- Please add the content to the `README.md` file and make sure that the edited list is in alphabetical order.
-- Submit a pull request.
+1. Add the resource to `README.md` under the topic section that fits best.
+2. Keep each section in alphabetical order.
+3. Use the format `| [Name](link) | Short description |`, with no period at the end.
+4. Update the count on the "lists" badge at the top.
+5. Submit a pull request.
 
 ## Removing from the List
 
-- If you have any issues accessing any of the resources listed here, please let us know.
+If a resource is broken, abandoned, or no longer relevant, open an issue or a pull request and tell us why.
 
 ## Contributors
 
